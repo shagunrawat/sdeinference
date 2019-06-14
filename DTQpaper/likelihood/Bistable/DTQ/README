@@ -1,0 +1,5 @@
+Follow these three steps at the command line:
+
+make dtqbistabsweep
+./dtqbistabsweep > dtqbistab.out
+Rscript plotresults.R

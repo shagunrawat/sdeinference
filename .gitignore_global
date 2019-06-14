@@ -1,0 +1,10 @@
+### git config --global core.excludesfile ~/.gitignore_global
+
+*.o
+*.so
+*.exe
+*.zip
+*.tar
+*.log
+Makevars
+*checkpoints.ipynb
